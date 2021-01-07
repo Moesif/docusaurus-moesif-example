@@ -3770,6 +3770,11 @@ dns-txt@^2.0.2:
   dependencies:
     buffer-indexof "^1.0.0"
 
+docusaurus-plugin-moesif@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/docusaurus-plugin-moesif/-/docusaurus-plugin-moesif-1.0.0.tgz#15d2ecb15f1e6116ae9995af973eceaf7030cea1"
+  integrity sha512-aUXvyNRDLCX0yN98DEF8PBEmQXI0CDvUFPH3EkhSHfGuxH+B4DeSloKxasAtPEjQp8aTByw46IK+mYkw5pXiug==
+
 dom-converter@^0.2:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/dom-converter/-/dom-converter-0.2.0.tgz#6721a9daee2e293682955b6afe416771627bb768"
